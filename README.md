@@ -1,3 +1,5 @@
+![Demo](./frontend/public/demo.png)
+
 # ETH Splitter
 
 ETH Splitter is a decentralized application (dApp) that allows users to send ETH to a smart contract, which then automatically splits and distributes the funds among a predefined set of recipients according to specified percentages. This is useful for group payments, revenue sharing, or any scenario where ETH needs to be distributed to multiple parties in a trustless way.
