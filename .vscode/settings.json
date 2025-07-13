@@ -1,0 +1,20 @@
+{
+    // TypeScript
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "editor.formatOnSave": true
+    },
+    // Solidity
+    "[solidity]": {
+        "editor.defaultFormatter": "JuanBlanco.solidity",
+        "editor.formatOnSave": true
+    },
+    // Other existing formatters...
+    "editor.formatOnSave": true,
+    // Ensure formatting is enabled
+    "typescript.format.enable": true,
+    "javascript.format.enable": true,
+    // Optional: auto-format on paste or type
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+}
