@@ -1,0 +1,10 @@
+1. **Create a new Hardhat + TypeScript project** with Viem support.
+2. **Write the ETHSplitter smart contract** that splits ETH among recipients.
+3. **Compile the contract** using Hardhat to generate ABI and bytecode.
+4. **Create a `.env` file** with your Infura RPC URL and MetaMask private key.
+5. **Generate 2–3 MetaMask accounts** to use as dummy recipient wallets.
+6. **Write a deploy script** that uses Viem to deploy the contract to Sepolia.
+7. **Deploy the contract** with `npx hardhat run` and confirm it's live on Etherscan.
+8. **Create a React + TypeScript frontend** using Wagmi + Viem.
+9. **Connect MetaMask to the frontend** and allow sending ETH to the splitter contract.
+10. **Test the full flow**: send ETH → view balances → confirm splits worked.
